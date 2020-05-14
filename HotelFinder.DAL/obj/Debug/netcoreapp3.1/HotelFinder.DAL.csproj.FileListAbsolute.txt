@@ -1,0 +1,15 @@
+D:\Asp.Net Projelerim\HotelFinder\HotelFinder.DAL\bin\Debug\netcoreapp3.1\HotelFinder.DAL.deps.json
+D:\Asp.Net Projelerim\HotelFinder\HotelFinder.DAL\bin\Debug\netcoreapp3.1\HotelFinder.DAL.runtimeconfig.json
+D:\Asp.Net Projelerim\HotelFinder\HotelFinder.DAL\bin\Debug\netcoreapp3.1\HotelFinder.DAL.runtimeconfig.dev.json
+D:\Asp.Net Projelerim\HotelFinder\HotelFinder.DAL\bin\Debug\netcoreapp3.1\HotelFinder.DAL.dll
+D:\Asp.Net Projelerim\HotelFinder\HotelFinder.DAL\bin\Debug\netcoreapp3.1\HotelFinder.DAL.pdb
+D:\Asp.Net Projelerim\HotelFinder\HotelFinder.DAL\bin\Debug\netcoreapp3.1\HotelFinder.Entities.dll
+D:\Asp.Net Projelerim\HotelFinder\HotelFinder.DAL\bin\Debug\netcoreapp3.1\HotelFinder.Entities.pdb
+D:\Asp.Net Projelerim\HotelFinder\HotelFinder.DAL\obj\Debug\netcoreapp3.1\HotelFinder.DAL.csprojAssemblyReference.cache
+D:\Asp.Net Projelerim\HotelFinder\HotelFinder.DAL\obj\Debug\netcoreapp3.1\HotelFinder.DAL.csproj.CoreCompileInputs.cache
+D:\Asp.Net Projelerim\HotelFinder\HotelFinder.DAL\obj\Debug\netcoreapp3.1\HotelFinder.DAL.AssemblyInfoInputs.cache
+D:\Asp.Net Projelerim\HotelFinder\HotelFinder.DAL\obj\Debug\netcoreapp3.1\HotelFinder.DAL.AssemblyInfo.cs
+D:\Asp.Net Projelerim\HotelFinder\HotelFinder.DAL\obj\Debug\netcoreapp3.1\HotelFinder.DAL.csproj.CopyComplete
+D:\Asp.Net Projelerim\HotelFinder\HotelFinder.DAL\obj\Debug\netcoreapp3.1\HotelFinder.DAL.dll
+D:\Asp.Net Projelerim\HotelFinder\HotelFinder.DAL\obj\Debug\netcoreapp3.1\HotelFinder.DAL.pdb
+D:\Asp.Net Projelerim\HotelFinder\HotelFinder.DAL\obj\Debug\netcoreapp3.1\HotelFinder.DAL.genruntimeconfig.cache
